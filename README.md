@@ -1,1 +1,3 @@
-# template-site-pro.github.io
+# template-site-pro
+
+Un joli site responsive adapté à un usage professionnel.
